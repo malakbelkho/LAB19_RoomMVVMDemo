@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="pulse_bg_start">#141E46</color>
+    <color name="pulse_bg_center">#243B6B</color>
+    <color name="pulse_bg_end">#5B8DEF</color>
+
+    <color name="panel_white">#F4F7FF</color>
+    <color name="panel_stroke">#B7C9FF</color>
+
+    <color name="text_main">#172033</color>
+    <color name="text_soft">#60708F</color>
+    <color name="white">#FFFFFF</color>
+
+    <color name="primary_start">#6D5DFB</color>
+    <color name="primary_end">#00C2FF</color>
+
+    <color name="danger_start">#FF6B6B</color>
+    <color name="danger_end">#FF9F43</color>
+
+    <color name="card_start">#FFFFFF</color>
+    <color name="card_end">#EEF4FF</color>
+
+    <color name="badge_start">#7C3AED</color>
+    <color name="badge_end">#06B6D4</color>
+</resources>
